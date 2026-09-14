@@ -3,13 +3,8 @@ body {
     background-color: #f0f4f8;
     color: #333
     padding: 20px;
-    line-height: 1.6;
 }
 p {
     line-height: 1.6;
     margin: 8px 0;
-}
-
-h1 {
-    color: #1a2b4c;
 }
